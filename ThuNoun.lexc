@@ -1,0 +1,33 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+ThuStem;
+
+LEXICON ThuStem
+
+හතු ThuNoun;
+මුතු ThuNoun;
+
+LEXICON ThuNoun
++N+Acc+Sg+Anim:ව #;
++N+Dat+Indef+Sg:වට #;
++N+GenLoc+Indef+Sg:වක #;
++N+Dat+Pl+Anim:වකට #;
++N+Acc+Sg+Anim:්ත #;
++N+Dat+Indef+Sg:්තට #;
++N+GenLoc+Indef+Sg:්තක #;
++N+Dat+Pl+Anim:්තකට #;
++N+Voc+Sg+Anim:වේ #;
++N+GenLoc+Sg+Anim:වේත් #;
++N+GenLoc+Sg+Anim:වෙන් #;
++N+GenLoc+Sg+Anim:්තෙන් #;
++N+Nom+Indef+Sg:වක් #;
++N+Nom+Indef+Sg:වම #;
++N+Nom+Indef+Sg:වත් #;
++N+Nom+Indef+Sg:වවත් #;
++N+InstrAbl+Pl+Inanim:වල #;
++N+InstrAbl+Pl+Inanim: #;
++N+Dat+Pl+Inanim:වලට #
++N+InstrAbl+Pl+Inanim:වලින් #

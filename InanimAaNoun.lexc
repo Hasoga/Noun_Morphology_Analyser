@@ -1,0 +1,43 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+InanimAaStem;
+
+LEXICON InanimAaStem
+
+ගෙදර InanimAaNoun;
+ඇද InanimAaNoun;
+බද InanimAaNoun;
+වසර InanimAaNoun;
+පෙළ InanimAaNoun;
+රට InanimAaNoun;
+ඉඩ InanimAaNoun;
+ජය InanimAaNoun;
+පහර InanimAaNoun;
+වැඩපිළිවෙළ InanimAaNoun;
+හෙට InanimAaNoun;
+පිළිවෙළ InanimAaNoun;
+
+LEXICON InanimAaNoun
++N+Acc+Sg+Inanim:#;
++N+Dat+Indef+Sg:ට #;
++N+Dat+Indef+Sg:ටම #;
++N+GenLoc+Indef+Sg:ක #;
++N+Dat+Pl+Anim:කට #;
++N+InstrAbl+Sg+Inanim:ින් #;
++N+Voc+Sg+Anim:ේ #;
++N+Voc+Sg+Anim:ේදී #;
++N+GenLoc+Sg+Anim:ේත් #;
++N+Nom+Indef+Sg:ක් #;
++N+Nom+Indef+Sg:ම #;
++N+Nom+Indef+Sg:ත් #;
++N+InstrAbl+Pl+Inanim:වල #;
++N+Dat+Pl+Inanim:වලට#
++N+InstrAbl+Pl+Inanim:වලින් #
++N+InstrAbl+Pl+Inanim:වල්වලින් #;
++N+GenLoc+Sg+Inanim:වල්වල #;
+
+
+

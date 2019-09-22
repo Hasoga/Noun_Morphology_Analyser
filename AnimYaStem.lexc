@@ -1,0 +1,39 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimYaStem;
+
+LEXICON AnimYaStem
+ගැහැණි AnimYaNoun;
+
+LEXICON AnimYaNoun
+
+ි+N+Acc+Sg+Anim:ිය#;
+ි+N+Dat+Indef+Sg:ියට #;
+ි+N+Acc+Sg+Anim:ියගේ#;
+ි+N+Acc+Sg+Anim:ියගෙන්#;
+ි+N+GenLoc+Indef+Sg:ියක් #;
+ි+N+GenLoc+Indef+Sg:ියක#;
+ි+N+GenLoc+Indef+Sg:ියකු #;
+ි+N+Dat+Indef+Sg:ියකුට #;
+ි+N+Dat+Indef+Sg:ියකුහට #;
+ි+N+Dat+Indef+Sg:ියකට #;
+ි+N+Dat+Indef+Sg:ියකහට #;
+ි+N+Dat+Indef+Sg:ියක්හට #;
+ි+N+InstrAbl+Sg+Inanim:ියකුගේ#;
+ි+N+InstrAbl+Sg+Inanim:ියක්ගේ#;
+ි+N+InstrAbl+Sg+Inanim:ියකගේ#;
+ි+N+GenLoc+Sg+Inanim:ියකගෙන්#;
+ි+N+GenLoc+Sg+Inanim:ියකුගෙන්#;
+ි+N+GenLoc+Sg+Inanim:ියක්ගෙන්#;
+ි+N+Acc+Pl+Anim:ු#;
+ි+N+Acc+Pl+Anim+Indef:ුන්#;
+ි+N+Dat+Pl+Anim+Indef:ුන්ට #;
+ි+N+Dat+Pl+Anim+Indef:ුන්හට #;
+ි+N+Dat+Pl+Anim+Indef:ුන්හට #;
+ි+N+InstrAbl+Pl+Anim+Indef:ුන්ගේ #;
+ි+N+GenLoc+Pl+Anim+Indef:ුන්ගෙන් #;
+ි+N+Voc+Pl+Anim:ුනි#;
+

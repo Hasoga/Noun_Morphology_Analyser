@@ -1,0 +1,39 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimWaStem;
+
+LEXICON AnimWaStem
+කාන්තා AnimWaNoun;
+
+
+LEXICON AnimWaNoun
+
++N+Acc+Sg+Anim:ව #;
++N+Dat+Indef+Sg:වට #;
++N+GenLoc+Indef+Sg:වක් #;
++N+GenLoc+Indef+Sg:වකු #;
++N+Dat+Indef+Sg:වකුට #;
++N+Dat+Indef+Sg:වකුහට #;
++N+Dat+Indef+Sg:වක්ට #;
++N+Dat+Indef+Sg:වක්හට #;
++N+GenLoc+Sg+Inanim:වකුගේ #;
++N+GenLoc+Sg+Inanim:වක්ගේ #;
++N+Acc+Pl+Anim:වෝ#;
++N+Dat+Pl+Anim:වෝට #;
++N+Dat+Pl+Anim:වෝහට #;
++N+Nom+Pl+Anim:වන් #;
++N+Dat+Pl+Inanim:වන්ට #;
++N+Dat+Pl+Inanim:වන්හට #;
++N+GenLoc+Pl+Inanim:වන්ගේ #;
++N+GenLoc+Pl+Anim:වෝගේ #;
++N+GenLoc+Pl+Inanim:වන්ගෙන් #;
++N+GenLoc+Sg+Anim:වත් #;
++N+GenLoc+Pl+Anim:වෝත් #;
++N+Nom+Indef+Sg:වම #;
++N+Nom+Indef+Pl:වෝම #;
++N+Nom+Indef+Sg:වවත් #;
++N+Nom+Indef+Pl:වෝවත් #;
++N+Voc+Indef+Pl:වනි #;

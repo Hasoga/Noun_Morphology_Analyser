@@ -1,0 +1,43 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+InanimHalStem;
+
+LEXICON InanimHalStem
+
+පිල InanimHalNoun;
+ගස InanimHalNoun;
+නිදහස InanimHalNoun;
+කොටස InanimHalNoun;
+නම InanimHalNoun;
+එක InanimHalNoun;
+වයස InanimHalNoun;
+වැඩසටහන InanimHalNoun;
+රෝහල InanimHalNoun;
+ගම InanimHalNoun;
+සම්පත InanimHalNoun;
+පළාත InanimHalNoun;
+
+LEXICON InanimHalNoun
+්+N+Acc+Pl+Anim:්  #;
+්+N+Acc+Sg+Anim: #;
+්+N+Dat+Indef+Sg:ට #;
+්+N+Dat+Indef+Sg:ටම #;
+්+N+GenLoc+Indef+Sg:ක #;
+්+N+Dat+Pl+Anim:කට #;
+්+N+InstrAbl+Sg+Inanim:ින් #;
+්+N+Voc+Sg+Anim:ේ #;
+්+N+Voc+Sg+Anim:ේදී  #;
+්+N+Voc+Sg+Anim:‌ෙහි  #;
+්+N+GenLoc+Sg+Anim:ේත් #;
+්+N+Nom+Indef+Sg:ක් #;
+්+N+Nom+Indef+Sg:ම #;
+්+N+Nom+Indef+Sg:ත් #;
+්+N+InstrAbl+Pl+Inanim:්වල #;
+්+N+Dat+Pl+Inanim:්වලට #
+්+N+Dat+Pl+Inanim:්වලත්   #
+්+N+InstrAbl+Pl+Inanim:්වලින් #
+්+N+InstrAbl+Pl+Inanim:්වල්වලින් #;
+්+N+GenLoc+Sg+Inanim:්වල්වල #;

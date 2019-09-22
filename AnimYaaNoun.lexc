@@ -1,0 +1,40 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimYaaStem;
+
+
+LEXICON AnimYaaStem
+
+කොටි AnimYaaNoun;
+සිංහ AnimYaaNoun;
+පරවි AnimYaaNoun;
+
+LEXICON AnimYaaNoun
+
++N+Acc+Sg+Anim:යා #;
++N+Dat+Indef+Sg:යාට #;
++N+GenLoc+Indef+Sg:යෙක් #;
++N+GenLoc+Indef+Sg:යෙකු #;
++N+Dat+Indef+Sg:යෙකුට #;
++N+Dat+Indef+Sg:යෙකුහට #;
++N+Dat+Indef+Sg:යෙක්ට #;
++N+Dat+Indef+Sg:යෙක්හට #;
++N+GenLoc+Sg+Inanim:යෙකුගේ#;
++N+GenLoc+Sg+Inanim:යෙක්ගේ#;
++N+Acc+Pl+Anim:යෝ#;
++N+Dat+Pl+Anim:යෝට #;
++N+Dat+Pl+Anim:යෝහට #;
++N+Nom+Pl+Anim:යන් #;
++N+Dat+Pl+Inanim:යන්ට #;
++N+Dat+Pl+Inanim:යන්හට #;
++N+GenLoc+Pl+Inanim:යන්ගේ #;
++N+GenLoc+Pl+Anim:යෝගේ #;
++N+GenLoc+Pl+Inanim:යන්ගෙන් #;
++N+GenLoc+Sg+Anim:යාත් #;
++N+GenLoc+Pl+Anim:යෝත් #;
++N+Nom+Indef+Sg:යාම #;
++N+Nom+Indef+Sg:යාවත් #;
++N+Nom+Indef+Pl:යෝවත් #;

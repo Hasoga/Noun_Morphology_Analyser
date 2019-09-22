@@ -1,0 +1,30 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimRaStem;
+
+
+LEXICON AnimRaStem
+ඌර AnimRaNoun;
+වදුර AnimRaNoun;
+
+
+LEXICON AnimRaNoun
+
+ැ+N+Nom+Sg:ා #;
+ැ+N+Nom+Pl+Anim:ො #;
+ැ+N+Nom+Pl+Anim:ෝ #;
+ැ+N+Nom+Pl+Anim:න් #;
+ැ+N+Acc+Sg+Anim:ව #;
+ැ+N+Acc+Sg+Anim:ාව #;
+ැ+N+Acc+Pl+Anim:න්ව #;
+ැ+N+Dat+Sg:ාට #;
+ැ+N+Dat+Pl+Anim:න්ට #;
+ැ+N+InstrAbl+Sg+Anim:ගෙන් #;
+ැ+N+InstrAbl+Sg+Anim:ාගෙන් #;
+ැ+N+InstrAbl+Pl+Anim:න්ගෙන් #;
+ැ+N+GenLoc+Sg+Anim:ාගෙ #;
+ැ+N+GenLoc+Sg+Anim:ගෙ #;
+ැ+N+GenLoc+Sg+Anim:ාගේ #;

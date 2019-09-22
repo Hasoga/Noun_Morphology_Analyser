@@ -1,0 +1,40 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimThStem;
+
+
+LEXICON AnimThStem
+
+ඇත AnimThNoun;
+සත AnimThNoun;
+පුත AnimThNoun;
+වියත AnimThNoun;
+
+
+LEXICON AnimThNoun
+
+්+N+Nom+Sg:ා #;
+්+N+Nom+Sg:ු #;
+්+N+Nom+Pl+Anim:්තු #;
+්+N+Nom+Pl+Anim:්හු #;
+්+N+Nom+Pl+Inanim:ුන් #;
+්+N+Nom+Pl+Inanim:්තුන් #;
+්+N+Acc+Sg+Anim:ව #;
+්+N+Dat+Sg:ාට #;
+්+N+Dat+Sg:ුට #;
+්+N+Dat+Pl+Anim:ුන්ට #;
+්+N+Dat+Pl+Anim:්තුන්ට #;
+්+N+InstrAbl+Sg+Anim:ගෙන් #;
+්+N+InstrAbl+Pl+Anim:්තුන්ගෙන් #;
+්+N+InstrAbl+Pl+Anim:ුන්ගෙන් #;
+්+N+GenLoc+Sg+Anim:ාගෙ #;
+්+N+GenLoc+Sg+Anim:ුගෙ #;
+්+N+GenLoc+Sg+Anim:ාගේ #;
+්+N+GenLoc+Sg+Anim:ුගේ #;
+්+N+GenLoc+Pl+Anim:ුන්ගෙ #;
+්+N+GenLoc+Pl+Anim:්තුන්ගෙ #;
+්+N+GenLoc+Pl+Anim:ුන්ගේ #;
+්+N+GenLoc+Pl+Anim:්තුන්ගේ #;

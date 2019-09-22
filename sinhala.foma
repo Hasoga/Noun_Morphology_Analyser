@@ -1,0 +1,22 @@
+### Sinhala.foma ###
+
+# Vowels
+define A [ක | ​ඛ | ග | ​ඝ | ච | ​ඡ | ජ | ට | ඨ | ඩ | ඪ | ණ | ත | ද | ධ | න | ප | ඵ | බ | භ | ම | ය | ර | ල | ව | ශ | ෂ | ස | හ | ළ | ​ෆ | ඟ | ඬ | ඳ | ඹ];
+
+define B [ ්ත | ්තට | ්තක |  ්තකට | ්තෙන් |];
+
+
+
+read lexc ThuNoun.lexc
+define LexiconThuNoun;
+
+######### Rewrite rules
+
+define ThuClass        ු  ->  0 ||   _  "^" B ;
+
+
+define ClassOneGrammar 	LexiconThuNoun            .o.
+                        ThuClass          .o.
+               	    
+
+regex ClassOneGrammar;

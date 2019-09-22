@@ -1,0 +1,37 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+WaStem;
+
+LEXICON WaStem
+
+ගැටලු WaNoun;
+සංඛ්‍යා WaNoun;
+හේතු WaNoun;
+ආණ්ඩු WaNoun;
+ අවස්ථා WaNoun;
+දෙපාර්තමේන්තු WaNoun;
+පුටු WaNoun;
+තරු WaNoun;
+
+LEXICON WaNoun
++N+Acc+Sg+Anim:ව #;
++N+Dat+Indef+Sg:වට #;
++N+GenLoc+Indef+Sg:වක #;
++N+Dat+Pl+Anim:වකට #;
++N+Nom+Pl+Anim:වන් #;
++N+Dat+Pl+Anim:වන්ට #;
++N+Voc+Sg+Anim:වේ #;
++N+GenLoc+Sg+Anim:වේත් #;
++N+Nom+Indef+Sg:වක් #;
++N+Nom+Indef+Sg:වම #;
++N+Nom+Indef+Sg:වත් #;
++N+Nom+Indef+Sg:වවත් #;
++N+InstrAbl+Pl+Inanim:වල #;
++N+InstrAbl+Pl+Inanim: #;
++N+Dat+Pl+Inanim:වලට #
++N+InstrAbl+Pl+Inanim:වලින් #
++N+InstrAbl+Pl+Inanim:වල්වලින් #;
++N+GenLoc+Sg+Inanim:වල්වල #;

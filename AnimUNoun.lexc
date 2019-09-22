@@ -1,0 +1,42 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimUStem;
+
+LEXICON AnimUStem
+
+සැකකරු AnimUNoun;
+සිසු AnimUNoun;
+එළු AnimUNoun;
+කොලු AnimUNoun;
+බූරු AnimUNoun;
+බැටළු AnimUNoun;
+
+LEXICON AnimUNoun
+
++N+Acc+Sg+Anim:වා #;
++N+Dat+Indef+Sg:වාට #;
++N+GenLoc+Indef+Sg:වෙක් #;
++N+GenLoc+Indef+Sg:වෙකු #;
++N+Dat+Indef+Sg:වෙකුට #;
++N+Dat+Indef+Sg:වෙකුහට #;
++N+Dat+Indef+Sg:වෙක්ට #;
++N+Dat+Indef+Sg:වෙක්හට #;
++N+GenLoc+Sg+Inanim:වෙකුගේ #;
++N+GenLoc+Sg+Inanim:වෙක්ගේ #;
++N+Acc+Pl+Anim:වෝ#;
++N+Dat+Pl+Anim:වෝට #;
++N+Dat+Pl+Anim:වෝහට #;
++N+Nom+Pl+Anim:වන් #;
++N+Dat+Pl+Inanim:වන්ට #;
++N+Dat+Pl+Inanim:වන්හට #;
++N+GenLoc+Pl+Inanim:වන්ගේ #;
++N+GenLoc+Pl+Anim:වෝගේ #;
++N+GenLoc+Pl+Inanim:වන්ගෙන් #;
++N+GenLoc+Sg+Anim:වාත් #;
++N+GenLoc+Pl+Anim:වෝත් #;
++N+Nom+Indef+Sg:වාම #;
++N+Nom+Indef+Sg:වාවත් #;
++N+Nom+Indef+Pl:වෝවත් #;

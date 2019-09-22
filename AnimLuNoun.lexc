@@ -1,0 +1,15 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimLuStem;
+
+LEXICON AnimLuStem   
+
+බල AnimLuNoun;  
+කොල AnimLuNoun;
+
+
+
+LEXICON AnimLuNoun

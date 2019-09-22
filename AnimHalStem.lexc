@@ -1,0 +1,45 @@
+!!!nouns.lexc!!!
+
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEMA ^GUESSSTEMAA ^GUESSSTEMC
+
+LEXICON Root
+AnimHalStem;
+
+LEXICON AnimHalStem  				#් is added in rules (මිනිස්)
+
+මිනිස AnimHalNoun;
+වලස AnimHalNoun;
+
+
+
+LEXICON AnimHalNoun
+
+්+N+Acc+Pl+Anim:්  #;
+්+N+Acc+Sg+Anim:ා #;
+්+N+Dat+Indef+Sg:ාට #;
+්+N+Dat+Indef+Sg:ාටම #;
+්+N+GenLoc+Indef+Sg:ෙක් #;
+්+N+GenLoc+Indef+Sg:ෙකු #;
+්+N+Dat+Pl+Indef:ෙකුට #;
+්+N+Dat+Pl+Indef:ෙක්ට #;
+්+N+InstrAbl+Pl+Indef:ුන් #;
+්+N+InstrAbl+Pl+Indef:්සු #;
+්+N+Dat+Pl+Indef:ුන්ට #;
+්+N+GenLoc+Pl+Indef:ුන්ගේ #;
+්+N+GenLoc+Sg+Anim:ාගේ #;
+්+N+GenLoc+Sg+Anim:ාගෙහි #;
+්+N+GenLoc+Indef+Sg:ෙක්ගේ #;
+්+N+GenLoc+Indef+Sg:ෙකුගේ #;
+්+N+InstrAbl+Pl+Indef:ුන්ගෙන් #;
+්+N+InstrAbl+Sg+Anim:ාගෙන් #;
+්+N+InstrAbl+Indef+Sg:ෙක්ගෙන් #;
+්+N+InstrAbl+Indef+Sg:ෙකුගෙන් #;
+්+N+Voc+Pl+Indef:ුනි #;
+්+N+Acc+Sg+Anim:ාත් #;
+්+N+InstrAbl+Pl+Indef:්සුත් #;
+්+N+GenLoc+Indef+Sg:ෙකුත් #;
+්+N+GenLoc+Pl+Indef:ුන්ගේත් #;
+්+N+GenLoc+Sg+Anim:ාගේත් #;
+්+N+GenLoc+Indef+Sg:ෙක්ගේත් #;
+්+N+GenLoc+Indef+Sg:ෙකුගේත් #;
+්+N+Acc+Sg+Anim:ාම #;
